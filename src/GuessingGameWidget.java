@@ -121,16 +121,18 @@ public class GuessingGameWidget extends GridPane{
         );
     }
 
-
+    // INCREMENTS CORRECT COUNTER METHOD HAD TO BE OUTSIDE DUE TO ERROR I WAS GETTING
     public void incrementCorrectCounter() {
         correctCounter++;
     }
+
+    // INCREMENTS INCORRECT COUNTER METHOD HAD TO BE OUTSIDE DUE TO ERROR I WAS GETTING
 
     public void incrementIncorrectCounter() {
         incorrectCounter++;
     }
 
-
+    // UPDATE COUNTER METHOD TO KEEP TRACK OF CORRECT AND INCORRECT GUESSES
     public void updateCounter(TextField scoreBoard, int correctCounter, int incorrectCounter) {
 
         // RANDOM NUMBER GENERATOR
