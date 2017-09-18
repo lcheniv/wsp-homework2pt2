@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="444f8607-1466-4ce4-a465-258cc89d938e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GuessingGameWidget.java" afterPath="$PROJECT_DIR$/src/GuessingGameWidget.java" />
-    </list>
+    <list default="true" id="444f8607-1466-4ce4-a465-258cc89d938e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,10 +28,10 @@
       <file leaf-file-name="GuessingGameWidget.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GuessingGameWidget.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+            <state relative-caret-position="442">
+              <caret line="26" column="65" lean-forward="true" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
               <folding>
-                <element signature="e#0#5247#0" expanded="true" />
+                <element signature="imports" expanded="true" />
                 <element signature="e#4334#4335#0" expanded="true" />
                 <element signature="e#4366#4367#0" expanded="true" />
                 <element signature="e#4502#4503#0" expanded="true" />
@@ -68,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -242,7 +240,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -297,7 +295,7 @@
         <state relative-caret-position="646">
           <caret line="80" column="32" lean-forward="false" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
           <folding>
-            <element signature="e#0#5247#0" expanded="true" />
+            <element signature="imports" expanded="true" />
             <element signature="e#4334#4335#0" expanded="true" />
             <element signature="e#4366#4367#0" expanded="true" />
             <element signature="e#4502#4503#0" expanded="true" />
@@ -322,7 +320,7 @@
         <state relative-caret-position="1309">
           <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
-            <element signature="e#0#5247#0" expanded="true" />
+            <element signature="imports" expanded="true" />
             <element signature="e#4334#4335#0" expanded="true" />
             <element signature="e#4366#4367#0" expanded="true" />
             <element signature="e#4502#4503#0" expanded="true" />
@@ -344,10 +342,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GuessingGameWidget.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="442">
+          <caret line="26" column="65" lean-forward="true" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
           <folding>
-            <element signature="e#0#5247#0" expanded="true" />
+            <element signature="imports" expanded="true" />
             <element signature="e#4334#4335#0" expanded="true" />
             <element signature="e#4366#4367#0" expanded="true" />
             <element signature="e#4502#4503#0" expanded="true" />
